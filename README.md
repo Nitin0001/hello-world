@@ -1,2 +1,3 @@
 # hello-world
 my first repository
+hey everyone, Welcome to my first commit doc...
